@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pic {
+    width: 4vh;
+}
+
+.link {
+    list-style-type: none;
+    margin: .5em 1em;
+}
+
+header {
+    background-color: goldenrod;
+}
