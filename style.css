@@ -1,0 +1,16 @@
+nav a {
+    color: fuchsia;
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    font-size: 1.5em;
+    background-color: skyblue;
+    border-radius: 1em;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+
+}
